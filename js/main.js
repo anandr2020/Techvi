@@ -19,7 +19,7 @@ let allProducts = [];
 async function loadProducts() {
     try {
         // Fetch product data from the JSON file
-        const response = await fetch('data/products.json');
+        const response = await fetch('assets/data/products.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
