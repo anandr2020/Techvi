@@ -1,42 +1,129 @@
 [
   {
-    "id": "osv100",
-    "name": "Oil-Sealed Rotary Vane Pump - R5 Series",
-    "category": "Oil-Sealed",
-    "flow_rate": "100-250 m³/h",
-    "ultimate_pressure": "< 0.1 mbar",
-    "image": "iXH1220_Edwards.jpg",
-    "description": "The industry standard for reliable and robust general vacuum applications like packaging, drying, and central systems.",
-    "applications": ["Packaging", "Drying", "Central Systems"]
+    "id": "p1",
+    "name": "Dummy Product 1",
+    "image": "product1.jpg",
+    "description": "product display image."
   },
   {
-    "id": "dsc500",
-    "name": "Dry Screw Vacuum Pump - COBRA Series",
-    "category": "Dry",
-    "flow_rate": "300-900 m³/h",
-    "ultimate_pressure": "< 0.01 mbar",
-    "image": "Pfeiffer Vacuum MVP 020.jpg",
-    "description": "Oil-free, contact-free operation ideal for chemical, pharmaceutical, and high-purity processes. Low maintenance design.",
-    "applications": ["Chemical Processing", "Semiconductor", "Pharmaceutical"]
+    "id": "p2",
+    "name": "Dummy Product 2",
+    "image": "product2.jpg",
+    "description": "product display image."
   },
   {
-    "id": "lrv800",
-    "name": "Liquid Ring Vacuum Pump - Dolphin Series",
-    "category": "Liquid-Ring",
-    "flow_rate": "500-2000 m³/h",
-    "ultimate_pressure": "33 mbar",
-    "image": "Pfeiffer_HiPace300.jpg",
-    "description": "Rugged performance in harsh conditions, particularly excellent for handling moist or saturated gases and vapor.",
-    "applications": ["Geothermal", "Petrochemical", "Moist Processes"]
+    "id": "p3",
+    "name": "Dummy Product 3",
+    "image": "product3.jpg",
+    "description": "product display image."
   },
   {
-    "id": "claw300",
-    "name": "Dry Claw Vacuum Pump - MINK Series",
-    "category": "Dry",
-    "flow_rate": "150-500 m³/h",
-    "ultimate_pressure": "50 mbar",
-    "image": "rv-pumps-edwards-e2m28-rotary-vane-vacuu.jpg",
-    "description": "An economical, dry option for rough vacuum applications like pneumatic conveying and waste treatment.",
-    "applications": ["Pneumatic Conveying", "Woodworking", "Waste Water Treatment"]
+    "id": "p4",
+    "name": "Dummy Product 4",
+    "image": "product4.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p5",
+    "name": "Dummy Product 5",
+    "image": "/product5.jpg",
+    "description": "product display image."
+  },
+ {
+    "id": "p6",
+    "name": "Dummy Product 6",
+    "image": "product6.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p7",
+    "name": "Dummy Product 7",
+    "image": "product7.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p8",
+    "name": "Dummy Product 8",
+    "image": "product8.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p9",
+    "name": "Dummy Product 9",
+    "image": "product9.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p10",
+    "name": "Dummy Product 10",
+    "image": "/product10.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p11",
+    "name": "Dummy Product 11",
+    "image": "product11.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p12",
+    "name": "Dummy Product 12",
+    "image": "product12.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p13",
+    "name": "Dummy Product 13",
+    "image": "product13.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p14",
+    "name": "Dummy Product 14",
+    "image": "product14.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p15",
+    "name": "Dummy Product 15",
+    "image": "/product15.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p16",
+    "name": "Dummy Product 16",
+    "image": "product16.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p17",
+    "name": "Dummy Product 17",
+    "image": "product17.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p18",
+    "name": "Dummy Product 18",
+    "image": "product18.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p19",
+    "name": "Dummy Product 19",
+    "image": "product19.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p20",
+    "name": "Dummy Product20",
+    "image": "/product20.jpg",
+    "description": "product display image."
+  },
+  {
+    "id": "p21",
+    "name": "Dummy Product 21",
+    "image": "product21.jpg",
+    "description": "product display image."
   }
 ]
+
