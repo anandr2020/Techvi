@@ -13,7 +13,7 @@
   },
   {
     "id": "p3",
-    "name": "Dummy Product 3",
+    "name": "",
     "image": "product3.jpg",
     "description": "product display image."
   },
@@ -31,13 +31,13 @@
   },
  {
     "id": "p6",
-    "name": "Dummy Product 6",
+    "name": "",
     "image": "product6.jpg",
     "description": "product display image."
   },
   {
     "id": "p7",
-    "name": "Dummy Product 7",
+    "name": "",
     "image": "product7.jpg",
     "description": "product display image."
   },
@@ -91,13 +91,13 @@
   },
   {
     "id": "p16",
-    "name": "Dummy Product 16",
+    "name": " ",
     "image": "product16.jpg",
     "description": "product display image."
   },
   {
     "id": "p17",
-    "name": "Dummy Product 17",
+    "name": " ",
     "image": "product17.jpg",
     "description": "product display image."
   },
@@ -109,13 +109,13 @@
   },
   {
     "id": "p19",
-    "name": "Dummy Product 19",
+    "name": " ",
     "image": "product19.jpg",
     "description": "product display image."
   },
   {
     "id": "p20",
-    "name": "Dummy Product20",
+    "name": " ",
     "image": "product20.jpg",
     "description": "product display image."
   },
@@ -127,7 +127,7 @@
   },
   {
     "id": "p22",
-    "name": "Dummy Product 22",
+    "name": "  ",
     "image": "product22.jpg",
     "description": "product display image."
   },
