@@ -1,10 +1,28 @@
 [
   {
-    "id": "p1",
-    "name": " LS 120-Ulvac",
-    "image": "product1.jpg",
-    "description": "product display image."
+  "id": "p1",
+  "name": "LS120 – ULVAC",
+  "image": "product1.jpg",
+  "description": {
+    "intro": "The ULVAC LS120 is a high-performance dry vacuum pump designed to provide clean, stable, and reliable vacuum for industrial and high-technology applications. Its oil-free operation prevents contamination, making it ideal for precision processes that require a clean vacuum environment.",
+    "applications": [
+      "Semiconductor manufacturing processes",
+      "Electronics and PCB production lines",
+      "Thin film coating and vacuum deposition systems",
+      "Laboratory and research equipment",
+      "Industrial automation and vacuum handling systems"
+    ],
+    "advantages": [
+      "Oil-free dry vacuum technology",
+      "Low maintenance and long service life",
+      "Stable vacuum performance",
+      "Compact design for easy system integration",
+      "Clean and environmentally friendly operation"
+    ]
   },
+  "category": "Dry Vacuum Pump"
+}
+,
   {
     "id": "p2",
     "name": "Dry Vacuum pump-CR16B-Ulvac",
