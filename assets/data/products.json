@@ -27,49 +27,49 @@
     "id": "p2",
     "name": "Dry Vacuum pump-CR16B-Ulvac",
     "image": "product2.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p3",
     "name": "",
     "image": "product3.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p4",
     "name": " VD30-Ulvac",
     "image": "product4.jpg",
-    "description": "product display image."
+    "description":"" 
   },
   {
     "id": "p5",
     "name": "VS1501-Ulvac",
     "image": "product5.jpg",
-    "description": "product display image."
+    "description": ""
   },
  {
     "id": "p6",
     "name": "",
     "image": "",
-    "description": "product display image."
+    "description":""
   },
   {
     "id": "p7",
     "name": "",
     "image": "",
-    "description": "product display image."
+    "description":"" 
   },
   {
     "id": "p8",
     "name": "VS650-Ulvac",
     "image": "product8.jpg",
-    "description": "product display image."
+    "description":"" 
   },
   {
     "id": "p9",
     "name": " PKS-070-Ulvac",
     "image": "product9.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p10",
@@ -81,86 +81,86 @@
     "id": "p11",
     "name": "012A-Ulvac",
     "image": "product11.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p12",
     "name": "PMB-040C-Ulvac",
     "image": "product12.jpg",
-    "description": "product display image."
+    "description":""
   },
   {
     "id": "p13",
     "name": "UTM-Ulvac",
     "image": "product13.jpg",
-    "description": "product display image."
+    "description":"" 
   },
   {
     "id": "p14",
     "name": "UTM-Ulvac ",
     "image": "product14.jpg",
-    "description": "product display image."
+    "description":"" 
   },
   {
     "id": "p15",
     "name": "UTM -Ulvac",
     "image": "/product15.jpg",
-    "description": "product display image."
+    "description":""
   },
   {
     "id": "p16",
     "name": " ",
     "image": "product16.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p17",
     "name": " ",
     "image": "product17.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p18",
     "name": " ULK-14A -Ulvac",
     "image": "product18.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p19",
     "name": " ",
     "image": "product19.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p20",
     "name": " ",
     "image": "product20.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p21",
     "name": " cryogenics Ulvac",
     "image": "product21.jpg",
-    "description": "HIGH VACUUM PUMP."
+    "description": ""
   },
   {
     "id": "p22",
     "name": "  ",
     "image": "product22.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p23",
     "name": "Turbomolecular Vacuum Pump ixl",
     "image": "product23.jpg",
-    "description": "DRY | SINGLE-STAGE| PLASMA ."
+    "description": ""
   },
- {
+{
     "id": "p24",
     "name": "VACUUM-VN EDWARDS",
     "image": "",
-    "description": "product display image."
-  },
+    "description": ""
+},
   {
     "id": "p25",
     "name": "nXDS6i Dry Scoll pump -Edwards ",
@@ -171,19 +171,19 @@
     "id": "p26",
     "name": "IXH 100 EDWARDS",
     "image": "product26.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p27",
     "name": "Turbomolecular Vacuum Pump ixl",
     "image": "product27.jpg",
-    "description": "product display image."
+    "description": ""
   },
   {
     "id": "p28",
     "name": " IXH 610 EDWARDS",
     "image": "product28.jpg",
-    "description": "product display image."
+    "description": ""
   }
 
 ]
