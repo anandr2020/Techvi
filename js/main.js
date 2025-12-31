@@ -113,11 +113,12 @@ function renderProducts(products) {
   `
 }
 
-                <div class="specs">
-                    <span><strong>Category:</strong> ${product.category}</span>
-                    <span><strong>Flow Rate:</strong> ${product.flow_rate}</span>
-                    <span><strong>Ultimate Pressure:</strong> ${product.ultimate_pressure}</span>
-                </div>
+              <div class="specs">
+    <span><strong>Category:</strong> ${product.category ?? ""}</span>
+    <span><strong>Flow Rate:</strong> ${product.flow_rate ?? ""}</span>
+    <span><strong>Ultimate Pressure:</strong> ${product.ultimate_pressure ?? ""}</span>
+</div>
+
            
             </div>
         `;
